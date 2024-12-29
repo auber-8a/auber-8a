@@ -9,7 +9,7 @@ Currently, I am pursuing a degree in Computer Science and am a fourth-semester S
 In addition to my studies, I enjoy watching series, movies and I am a football enthusiast. My current focus is on strengthening my technical knowledge and learning about the latest trends in technology to prepare myself for the challenges that arise in the world of engineering.
 
 
-
+---
 **🥳 Skills:**
 
 - Knowledge of platforms such as Emacs, Jupyter Notebook, Cisco Packet Tracer, MATLAB, among others.
@@ -25,13 +25,13 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 - English level (intermediate-high).
 
 
-
+---
 **🤓☝️ Certifications:**
 
 - Basic computer hardware: Cisco
 
 
-
+---
 **📰 news**
 ======
 
