@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🏫 Escuela Politécnica Nacional. 
+#🏫 Escuela Politécnica Nacional. 
 
-🖥️⌨️ Faculty of Systems Engineering.
+## 🖥️⌨️ Faculty of Systems Engineering.
 
 Currently, I am pursuing a degree in Computer Science and am a fourth-semester Systems Engineering student. Passionate about technology and the potential of new inventions. Throughout my career, I have become increasingly interested in the fields of cybersecurity and networks, where I would like to specialize and contribute with innovative solutions.
 
