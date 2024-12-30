@@ -10,7 +10,7 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 
 
 ---
-**🥳 Skills:**
+### **🥳 Skills:**
 
 - Knowledge of platforms such as Emacs, Jupyter Notebook, Cisco Packet Tracer, MATLAB, among others.
 
@@ -26,13 +26,13 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 
 
 ---
-**🤓☝️ Certifications:**
+### **🤓☝️ Certifications:**
 
 - Basic computer hardware: Cisco
 
 
 ---
-**📰 news**
+### **📰 news**
 ======
 
 - **Oct 07, 2024**	:desktop_computer: :keyboard: :nerd_face: I started learning Python from intermediate to advanced level.
