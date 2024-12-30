@@ -33,7 +33,6 @@ In addition to my studies, I enjoy watching series, movies and I am a football e
 
 ---
 ### **📰 news**
-======
 
 - **Oct 07, 2024**	:desktop_computer: :keyboard: :nerd_face: I started learning Python from intermediate to advanced level.
 
