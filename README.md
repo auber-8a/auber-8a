@@ -38,26 +38,15 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 #### Datos & Analítica
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Python Data](https://img.shields.io/badge/Data_Analytics-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 #### Seguridad e Infraestructura
 ![OpenSSL](https://img.shields.io/badge/PKI_%26_OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-000000?style=flat-square&logo=haproxy&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL2-0078D6?style=flat-square&logo=windows&logoColor=white)
-
----
-
-### Estadísticas de GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=auber-8a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auber-8a&layout=compact&theme=tokyonight&hide=html,css"/>
-</div>
 
 ---
 
